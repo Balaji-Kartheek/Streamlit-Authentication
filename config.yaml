@@ -1,15 +1,15 @@
 credentials:
   usernames:
-    qa_team:
-      name: qa_team
-      password: qa_team@123
-    ml_team:
-      name: ml_team
-      password: ml_team@123
+    user1:
+      name:user1
+      password: user1@123
+    user2:
+      name: user2
+      password: user2@123
 cookie:
   expiry_days: 30
   key: authentication_key
   name: authentication
 preauthorized:
   emails:
-    - tbalaji8822@gmail.com
+    - users@gmail.com
